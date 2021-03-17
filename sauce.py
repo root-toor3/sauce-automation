@@ -1,8 +1,9 @@
-print('type your code :')
 import webbrowser
-code = input()
-strURL = "nhentai.net/g/" + code
-def page() :
+def mainfunction() :
+    print('Type your code :')
+    code = input()
+    strURL = "nhentai.net/g/" + code
     webbrowser.open_new_tab(strURL) ;  
-page()
-
+loop = 'sauce
+while loop == 'sauce' :
+    mainfunction()
