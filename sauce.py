@@ -4,6 +4,6 @@ def mainfunction() :
     code = input()
     strURL = "nhentai.net/g/" + code
     webbrowser.open_new_tab(strURL) ;  
-loop = 'sauce
+loop = 'sauce'
 while loop == 'sauce' :
     mainfunction()
